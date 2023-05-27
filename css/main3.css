@@ -1,0 +1,61 @@
+.btn{
+    width: 143px;
+    height: 35px;
+    font-size: 14px;
+}
+.row{
+    text-align: center;
+}
+.c{
+    position: relative;
+    top: 5px;
+    left: 240px;
+}
+.d{
+    position: relative;
+    top: 5px;
+    right: 202px;
+}
+.b{
+    position: relative;
+    top: 50px;
+    left: -148px;
+}
+.a{
+    position: relative;
+    top: 30px;
+    left: -75px;
+}
+img{
+    position: relative;
+   text-align: center;
+    top: 20px;
+    left: -40px;
+}
+.col-md-12{
+    margin: 5px;
+}
+.c12{
+    position: relative;
+    color: black;
+}
+.img-1{
+    position: relative;
+    top: -105px;
+    right: 125px;
+}
+.img-2{
+    position: relative;
+    top: -95px;
+    right: 125px;
+}
+.img-3{
+    position: relative;
+    top: -173px;
+    right: -20px;
+}
+.img-4{
+    position: relative;
+    top: -162px;
+    right: -20px;
+}
